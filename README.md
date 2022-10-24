@@ -21,5 +21,6 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(Descriptive2)
 ## basic example code
+## ds(x)
 ```
 
