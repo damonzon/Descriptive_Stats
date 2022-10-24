@@ -1,0 +1,11 @@
+Package: Descriptive2
+Title: Descriptive Statistics
+Version: 0.0.0.9000
+Authors@R: 
+    person("Damonzon", "Coulibaly", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: min, median, mean, hisogram, boxplot
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
