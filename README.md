@@ -12,6 +12,7 @@ You can install the development version of Descriptive2 like so:
 
 ``` r
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+devtools::install_github("damonzon/Descriptive_Stats",force = TRUE)
 ```
 
 ## Example
